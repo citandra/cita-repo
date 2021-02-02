@@ -1,5 +1,7 @@
 RENCANA MAGANG
-- Bikin video
+- Javascript
+  * ES6
+  * Framework JS
 - php framework
 - interview
 - vlog
