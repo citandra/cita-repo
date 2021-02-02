@@ -3,6 +3,7 @@ RENCANA MAGANG
   * ES6
   * Framework JS
    ^ vue
+   ^ React
 - Struktur Data Dasar
 - php framework
   ^ Laravel
