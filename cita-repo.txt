@@ -2,5 +2,4 @@ CITA REPO
 - Buat landing page
 - Belajar Git
 - Mengaplikasikan Git pada projek landing page
-- Membuat Aplikasi
 - Kolaborasi dengan najla dan fia
