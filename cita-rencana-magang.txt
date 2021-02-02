@@ -1,0 +1,7 @@
+RENCANA MAGANG
+- Javascript
+  * ES6
+  * Framework JS
+- php framework
+- interview
+- vlog
