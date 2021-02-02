@@ -2,6 +2,7 @@ RENCANA MAGANG
 - Javascript
   * ES6
   * Framework JS
+- Struktur Data Dasar
 - php framework
 - interview
 - vlog
